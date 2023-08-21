@@ -10,14 +10,6 @@ help with creating the randomization cards that the study coordinator
 can use to assign new subjects to their treatment.
 }
 \details{
-\tabular{ll}{
-Package: \tab blockrand\cr
-Type: \tab Package\cr
-Version: \tab 1.1\cr
-Date: \tab 2008-02-02\cr
-License: \tab Gnu Public License Ver. 2\cr
-Copyright: \tab Greg Snow and Intermountain Healthcare\cr
-}
 Currently there are 2 main functions and an optional list.  The
 \code{blockrand} function is used to create a data frame with the block
 sequential treatment randomizations.  When doing a stratified study you
